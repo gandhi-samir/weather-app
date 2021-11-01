@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Nuntino",sans-serif;
+
+background-color: #457b9d;
+}
+
+.input{
+    text-align: center;
+    margin: 100px 0;
+    
+    
+
+}
+
+input[type="text"]{
+    height: 50px;
+    width: 600px;
+    background-color: #a8dadc;
+    font-family:  "Nuntino",sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    border-style: solid;
+    border-radius: 2px;
+    padding: 10px;
+    border-color: #f1faee;
+    color: #f1faee;
+}
+
+input[type="submit"]{
+    height: 50px;
+    width: 100px;
+    background-color: #a8dadc;
+    font-family:  "Nuntino",sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    border-style: solid;
+    border-radius: 2px;
+    padding: 10px 10px;
+    border-color:#f1faee;
+    color: #f1faee;
+ 
+}
+
+.displayInfo{
+    text-align: center;
+    font-family:  "Nuntino",sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    border-style: solid;
+    padding: 20px 20px 20px;
+    border-radius: 22px;
+    width: 700px;
+    height: 210px;
+    margin: auto;
+    color: #f1faee;
+    
+    background-color: #a8dadc;
+    
+
+}
